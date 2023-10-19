@@ -13,7 +13,7 @@ I'm a Computer Engineer with over 7 years of experience in the field of computer
 - 📚 Lifelong learner and tech enthusiast who loves to explore and experiment with new technologies.
 
 📦 **Projects**
-- 📂 [Java Interop in Clojure](link-to-repo) - A tutorial project on using Java in Clojure.
+- 📂 [Java Interop in Clojure](https://github.com/maziyar-gerami/JavaIntrop) - A tutorial project on using Java in Clojure.
 - 🖥️ [Matlab Simulations](link-to-repo) - A collection of Matlab simulations for different purposes.
 
 🌐 **Connect with Me**
