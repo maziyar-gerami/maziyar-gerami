@@ -17,8 +17,8 @@ I'm a Computer Engineer with over 7 years of experience in the field of computer
 - 🖥️ [Matlab Simulations](link-to-repo) - A collection of Matlab simulations for different purposes.
 
 🌐 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-github)
+- [LinkedIn](https://www.linkedin.com/in/maziyar-gerami)
+- [GitHub](https://github.com/maziyar-gerami)
 
 Feel free to explore my GitHub repositories to see my work and contributions. If you have any questions or would like to collaborate, please don't hesitate to reach out.
 
