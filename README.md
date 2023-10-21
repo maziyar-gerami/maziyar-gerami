@@ -14,7 +14,8 @@ I'm a Computer Engineer with over 7 years of experience in the field of computer
 
 📦 **Projects**
 - 📂 [Java Interop in Clojure](https://github.com/maziyar-gerami/JavaIntrop) - A tutorial project on using Java in Clojure.
-- 🖥️ [Matlab Simulations](link-to-repo) - A collection of Matlab simulations for different purposes.
+- 🖥️ [Chili Chef Android App] (https://github.com/maziyar-gerami/ChiliChef)
+- 🖥️ [Locating WSN Sensors with TDOA approach] (https://github.com/maziyar-gerami/LocatingWSNTDOA)
 
 🌐 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/maziyar-gerami)
