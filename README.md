@@ -17,12 +17,15 @@ I'm a Computer Engineer with over 7 years of experience in the field of computer
 - 📂 [Chili Chef Android App](https://github.com/maziyar-gerami/ChiliChef) - A social media android app.
 - 📂 [Locating WSN Sensors with TDOA approach](https://github.com/maziyar-gerami/LocatingWSNTDOA) - Locating WSN sensor networks with TDOA approach.
 - 📂 [Community Detection in Social Networks.](https://github.com/maziyar-gerami/CommunityDetecion) - Community detection using a new approach in Social Networks.
+- 📂 [Layout Optimization in WSN.](https://github.com/maziyar-gerami/ChiliChef) - Layout Optimization for Wireless Sensor Networks Using Honey Bee Colony Optimization .
+
 
 🌐 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/maziyar-gerami)
 - [GitHub](https://github.com/maziyar-gerami)
 - [Research Gate](https://www.researchgate.net/profile/Maziyar-Gerami)
 
+https://github.com/maziyar-gerami/ChiliChef
 Feel free to explore my GitHub repositories to see my work and contributions. If you have any questions or would like to collaborate, please don't hesitate to reach out.
 
 Let's build amazing things together! 😄
