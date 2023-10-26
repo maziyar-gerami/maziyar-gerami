@@ -16,7 +16,10 @@ I'm a Computer Engineer with over 7 years of experience in the field of computer
 - 📂 [Java Interop in Clojure](https://github.com/maziyar-gerami/JavaIntrop) - A tutorial project on using Java in Clojure.
 - 📂 [Chili Chef Android App](https://github.com/maziyar-gerami/ChiliChef) - A social media android app.
 - 📂 [Locating WSN Sensors with TDOA approach](https://github.com/maziyar-gerami/LocatingWSNTDOA) - Locating WSN sensor networks with TDOA approach.
+- 📂 [Community Detection in Social Networks.](https://github.com/maziyar-gerami/CommunityDetecion) - Community detection using a new approach in Social Networks.
 
+
+https://github.com/maziyar-gerami/CommunityDetecion
 🌐 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/maziyar-gerami)
 - [GitHub](https://github.com/maziyar-gerami)
