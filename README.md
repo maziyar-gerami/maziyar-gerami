@@ -25,7 +25,7 @@ I'm a Computer Engineer with over 7 years of experience in the field of computer
 - [GitHub](https://github.com/maziyar-gerami)
 - [Research Gate](https://www.researchgate.net/profile/Maziyar-Gerami)
 
-https://github.com/maziyar-gerami/ChiliChef
+
 Feel free to explore my GitHub repositories to see my work and contributions. If you have any questions or would like to collaborate, please don't hesitate to reach out.
 
 Let's build amazing things together! 😄
