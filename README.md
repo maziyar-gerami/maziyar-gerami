@@ -1,6 +1,6 @@
 # Hi, I'm Maziyar Gerami 👋
 
-I'm a Computer Engineer with over seven years of experience in computer science. I'm passionate about using technology to solve real-world problems. My primary focus areas are Java, Clojure, and Matlab simulation languages.
+I'm a Computer Engineer with over seven years of experience in computer science. I'm passionate about using technology to solve real-world problems. My primary focus is Java, Clojure, Android and Matlab simulation languages.
 
 👨‍💻 **About Me**
 - 💼 Computer Engineer
