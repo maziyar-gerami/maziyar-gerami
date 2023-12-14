@@ -29,7 +29,7 @@ Matlab:
   
 Java & Kotlin:
 - 📂 [Design patterns](https://github.com/maziyar-gerami/DesignPatterns) - Implementing Design Patterns
-- 📂 [Design patterns](https://github.com/maziyar-gerami/IDMAN) - IDMAN: A client for Apereo Central authentication System (CAS)
+- 📂 [IDMAN](https://github.com/maziyar-gerami/IDMAN) -A client for Apereo Central authentication System (CAS)
 
 - 
 
