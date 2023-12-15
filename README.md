@@ -8,7 +8,7 @@ I'm a Computer Engineer with over seven years of experience in computer science.
 - 💡 7+ years of professional experience
 
 🌟 **Highlights**
-- 💻 I'm skilled in Java, Clojure, and Matlab for various applications, including simulations and software development.
+- 💻 I'm skilled in Java, Kotlin, Clojure, and Matlab for various applications, including simulations and software development.
 - 🌐 Experienced in solving complex problems using software engineering and data analysis.
 - 📚 Lifelong learner and tech enthusiast who loves to explore and experiment with new technologies.
 
@@ -30,8 +30,6 @@ Matlab:
 Java & Kotlin:
 - 📂 [Design patterns](https://github.com/maziyar-gerami/DesignPatterns) - Implementing Design Patterns
 - 📂 [IDMAN](https://github.com/maziyar-gerami/IDMAN) -A client for Apereo Central authentication System (CAS)
-
-- 
 
 
 
