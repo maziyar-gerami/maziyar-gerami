@@ -13,36 +13,53 @@
 - Built and maintained production-grade systems in **Java**, **Kotlin**, **Clojure**, and **Matlab** for domains ranging from backend services to simulations  
 - Delivered solutions to complex engineering problems using a blend of software design, algorithms, and data analysis  
 - Committed to continuous learning and exploring innovative technologies to create better, more scalable solutions  
+## Projects
+
+**Clojure**
+- [Java Interop](https://github.com/maziyar-gerami/JavaIntrop) — Tutorial project demonstrating how to integrate Java into Clojure.
+- [Document Management Microservice](https://github.com/maziyar-gerami/ClojureDocumentManagement) — Microservice component for managing documents, designed as part of a larger application.
+
+**Android**
+- [Chili Chef Android App](https://github.com/maziyar-gerami/ChiliChef) — Social media Android application.
+
+**Matlab / Simulations**
+- [Locating WSN Sensors with TDOA](https://github.com/maziyar-gerami/LocatingWSNTDOA) — System to locate wireless sensor network nodes using the Time Difference of Arrival method.
+- [Community Detection in Social Networks](https://github.com/maziyar-gerami/CommunityDetecion) — Applies a novel algorithm to identify communities within social networks.
+- [Layout Optimization in WSN](https://github.com/maziyar-gerami/LayoutOptimiztionWSN) — Optimizes wireless sensor network layouts using a Honey Bee Colony heuristic.
+- [Friendship Recommendation in Social Media](https://github.com/maziyar-gerami/friendship-recommendation) — Hybrid algorithm for suggesting meaningful social connections.
+
+**Java & Kotlin**
+- [Design Patterns](https://github.com/maziyar-gerami/DesignPatterns) — Implementations of classic design patterns in Java.
+- [IDMAN](https://github.com/maziyar-gerami/IDMAN) — Client application for Apereo Central Authentication System (CAS).
+
+**Articles & Documentation**
+- [Articles](https://github.com/maziyar-gerami/articles) — Curated collection of articles and video summaries on software development, architecture, and coding best practices.
+
+**Personal / Portfolio**
+- [Portfolio](https://github.com/maziyar-gerami/portfolio) — Repository containing source files for your personal portfolio site.
+- [Personal Repository](https://github.com/maziyar-gerami/maziyar-gerami) — Your GitHub personal repository (self-README).
+
+**Other Noteworthy Repositories**
+- [CV and Resume](https://github.com/maziyar-gerami/CVandResume) — TeX-based CV/resume project.
+- [Semantic Versioning Showcase](https://github.com/maziyar-gerami/semantic-versioning-showcase) — Demonstrates use of semantic versioning in Java projects.
+- [WebMetric](https://github.com/maziyar-gerami/WebMetric) — Java-based project related to web metrics.
+- [Scheduling Class](https://github.com/maziyar-gerami/SchedulingClass) — Matlab project focused on scheduling.
+- [Backend Code Challenge](https://github.com/maziyar-gerami/backend-code-challenge) — Java-based code challenge implementation.
+- [Code Challenge](https://github.com/maziyar-gerami/code-challenge) — C-language project for coding practice.
 
 
-📦 **Projects**
+## Connect with Me
 
-Clojure:
-- 📂 [Java Interop](https://github.com/maziyar-gerami/JavaIntrop) - A tutorial project on using Java in Clojure.
-- 📂 [Document Management Microservice](https://github.com/maziyar-gerami/ClojureDocumentManagement) - A microservice from a big project
+- [Website](https://maziyar-gerami.ir/)  
+- [LinkedIn](https://www.linkedin.com/in/maziyar-gerami)  
+- [GitHub](https://github.com/maziyar-gerami)  
+- [ResearchGate](https://www.researchgate.net/profile/Maziyar-Gerami)  
+- Email: [maziyar.gerami@gmail.com](mailto:maziyar.gerami@gmail.com)  
+- Schedule a meeting: [Calendly](https://calendly.com/maziyar-grami)  
 
-Android:
-- 📂 [Chili Chef Android App](https://github.com/maziyar-gerami/ChiliChef) - A social media android app.
+I welcome opportunities for collaboration, open-source contributions, and professional networking.  
+Feel free to explore my repositories to see my work and contributions.
 
-Matlab:
-- 📂 [Locating WSN Sensors with TDOA approach](https://github.com/maziyar-gerami/LocatingWSNTDOA) - Locating WSN sensor networks with TDOA approach.
-- 📂 [Community Detection in Social Networks.](https://github.com/maziyar-gerami/CommunityDetecion) - Community detection using a new approach in Social Networks.
-- 📂 [Layout Optimization in WSN.](https://github.com/maziyar-gerami/LayoutOptimiztionWSN) - Layout Optimization for Wireless Sensor Networks Using Honey Bee Colony Optimization.
-- 📂 [Friendship Recommendation in Social Media.](https://github.com/maziyar-gerami/friendship-recommendation) - Friendship Recommendation in Social Media Using a Hybrid Algorithm
-  
-Java & Kotlin:
-- 📂 [Design patterns](https://github.com/maziyar-gerami/DesignPatterns) - Implementing Design Patterns
-- 📂 [IDMAN](https://github.com/maziyar-gerami/IDMAN) -A client for Apereo Central authentication System (CAS)
-
-
-
-🌐 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/maziyar-gerami)
-- [GitHub](https://github.com/maziyar-gerami)
-- [Research Gate](https://www.researchgate.net/profile/Maziyar-Gerami)
-
-
-Feel free to explore my GitHub repositories to see my work and contributions. If you have any questions or would like to collaborate, please don't hesitate to reach out.
 
 Let's build amazing things together! 😄
 
