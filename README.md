@@ -54,12 +54,9 @@
 - [LinkedIn](https://www.linkedin.com/in/maziyar-gerami)  
 - [GitHub](https://github.com/maziyar-gerami)  
 - [ResearchGate](https://www.researchgate.net/profile/Maziyar-Gerami)  
-- Email: [maziyar.gerami@gmail.com](mailto:maziyar.gerami@gmail.com)  
+- Email: [maziyar.gerami@gmail.com](mailto:contact@maziyar.gerami.ir)  
 - Schedule a meeting: [Calendly](https://calendly.com/maziyar-grami)  
 
 I welcome opportunities for collaboration, open-source contributions, and professional networking.  
 Feel free to explore my repositories to see my work and contributions.
-
-
-Let's build amazing things together! 😄
 
