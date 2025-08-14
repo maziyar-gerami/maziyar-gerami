@@ -1,16 +1,19 @@
-# Hi, I'm Maziyar Gerami 👋
+# Maziyar Gerami — JVM Backend Engineer & Researcher  
+7+ years in Java (JDK 21), Clojure, Android, and Matlab simulations · Building reliable systems that solve real-world problems.
 
-I'm a Computer Engineer with over seven years of experience in computer science. I'm passionate about using technology to solve real-world problems. My primary focus is Java, Clojure, Android and Matlab simulation languages.
+## About Me
+- Computer Engineer specializing in backend development on the JVM
+- MSc in Computer Engineering
+- 7+ years of professional experience in software engineering and applied research
+- Primary focus on **Java (JDK 21)**, **Clojure**, **Android**, and **Matlab simulations**
+- Passionate about turning complex problems into clean, maintainable, and scalable solutions
 
-👨‍💻 **About Me**
-- 💼 Computer Engineer
-- 🎓 MSc in Computer Engineering
-- 💡 7+ years of professional experience
 
-🌟 **Highlights**
-- 💻 I'm skilled in Java, Kotlin, Clojure, and Matlab for various applications, including simulations and software development.
-- 🌐 Experienced in solving complex problems using software engineering and data analysis.
-- 📚 Lifelong learner and tech enthusiast who loves to explore and experiment with new technologies.
+## Highlights
+- Built and maintained production-grade systems in **Java**, **Kotlin**, **Clojure**, and **Matlab** for domains ranging from backend services to simulations  
+- Delivered solutions to complex engineering problems using a blend of software design, algorithms, and data analysis  
+- Committed to continuous learning and exploring innovative technologies to create better, more scalable solutions  
+
 
 📦 **Projects**
 
